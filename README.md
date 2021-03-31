@@ -1,4 +1,4 @@
-# Automation Testing Exercice by Using Karate Framework Features
+# Automation Testing Exercise by Using Karate Framework Features
 
 ## Instructions
 
