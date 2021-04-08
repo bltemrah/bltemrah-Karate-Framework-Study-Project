@@ -22,4 +22,4 @@ Feature: API test
     Then match response == {"id" : "#number", "userName" : "#string","password" : "#string"}
 
     Examples:
-      | read ('data/users.csv') |
+      | read('src/test/java/com/finspire/data/users.csv') |

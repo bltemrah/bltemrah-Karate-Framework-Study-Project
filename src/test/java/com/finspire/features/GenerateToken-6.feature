@@ -23,6 +23,7 @@ Feature: API test
     * print vToken
 
     * def path = "./src/test/java/com/finspire/data/token.csv"
+
     * def JavaDemo = Java.type('com.finspire.utilities.DataGenerator')
 
 #    * def tokenMethod = JavaDemo.generateCSV(door)
