@@ -1,5 +1,7 @@
 # Automation Testing Exercise by Using Karate Framework Features
 
+In this repository, I use different test scenarios to show how QA/SDET can implement Karate framework, which is one of the populer framework in the IT market, in their work environment. As seen, Karate framework is easy to use for particulary Backend test. Many functions is coming with the framework, so QA/SDET does not need to waste her/his time to write a code to have some fundamental methods. 
+
 ## Instructions
 
 Test Scenarios are prepared by;
